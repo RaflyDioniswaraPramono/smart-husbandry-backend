@@ -1,0 +1,18 @@
+[
+	{
+		"jenis": "Sapi Limosin",
+		"deskripsi": "Sapi Limosin adalah sapi potong asal Prancis yang terkenal dengan tubuh besar, kekar, berwarna cokelat kemerahan, dan menghasilkan daging berkualitas tinggi."
+	},
+	{
+		"jenis": "Sapi Perah",
+		"deskripsi": "Sapi perah adalah sapi yang dipelihara untuk produksi susu, biasanya berjenis Friesian Holstein dengan tubuh sedang hingga besar, warna hitam-putih, dan ambing besar."
+	},
+	{
+		"jenis": "Kambing Etawa",
+		"deskripsi": "Kambing Etawa adalah kambing asal India yang dikenal dengan tubuh besar, telinga panjang terkulai, hidung cembung, serta menghasilkan susu dan daging berkualitas."
+	},
+	{
+		"jenis": "Kambing Daging/Potong",
+		"deskripsi": "Kambing daging, seperti Boer, adalah jenis kambing yang memiliki tubuh besar, otot tebal, dan mampu menghasilkan daging berkualitas tinggi dengan pertumbuhan cepat."
+	}
+]

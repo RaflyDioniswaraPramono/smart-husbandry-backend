@@ -1,0 +1,9 @@
+[
+	{
+		"role_id": 1,
+		"name": "admin",
+		"username": "admin",
+		"email": "admin@gmail.com",
+		"password": "admin123"
+	}
+]

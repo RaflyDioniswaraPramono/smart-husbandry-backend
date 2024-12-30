@@ -1,0 +1,11 @@
+[
+	{
+		"nama_role": "ROLE_ADMINISTRATOR"
+	},
+	{
+		"nama_role": "ROLE_PETERNAK"
+	},
+	{
+		"nama_role": "ROLE_PETUGAS"
+	}
+]

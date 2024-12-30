@@ -1,0 +1,18 @@
+[
+  {
+    "pekerjaan_id": 1,
+    "nik_petugas": "3508150102000001",
+    "nama_petugas": "Zakaria Ilham Pratama",
+    "no_telp": "082176548927",
+    "email": "zakariailham22@gmail.com",
+    "wilayah": "JAWA TIMUR, LUAMAJANG, SUKODONO, KUTORENON, KRAJAN II"
+  },
+  {
+    "pekerjaan_id": 2,
+    "nik_petugas": "3508150102000002",
+    "nama_petugas": "Putri Diska Pramudita",
+    "no_telp": "082278298927",
+    "email": "pramuditha99@gmail.com",
+    "wilayah": "JAWA TIMUR, LUAMAJANG, SUKODONO, KUTORENON, KRAJAN II"
+  }
+]

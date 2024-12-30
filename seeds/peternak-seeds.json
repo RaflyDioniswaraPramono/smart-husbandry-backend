@@ -1,0 +1,22 @@
+[
+	{
+		"petugas_id": 1,
+		"nik_peternak": "3508150109000001",
+		"nama_peternak": "Muhammad Dirgham Musofa",
+		"provinsi": "JAWA TIMUR",
+		"kabupaten": "LUAMAJNG",
+		"kecamatan": "Sukodono",
+		"desa": "Krajan II",
+		"lokasi": "JAWA TIMUR, LUAMAJANG, SUKODONO, KUTORENON, KRAJAN II"
+	},
+	{
+		"petugas_id": 1,
+		"nik_peternak": "3508150109000002",
+		"nama_peternak": "Ayu Astutiek",
+		"provinsi": "JAWA TIMUR",
+		"kabupaten": "LUAMAJNG",
+		"kecamatan": "Sukodono",
+		"desa": "Krajan II",
+		"lokasi": "JAWA TIMUR, LUAMAJANG, SUKODONO, KUTORENON, KRAJAN II"
+	}
+]
